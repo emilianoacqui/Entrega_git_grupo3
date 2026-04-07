@@ -1,0 +1,8 @@
+# Archivos temporales comunes
+.DS_Store
+*.swp
+*.tmp
+
+# Salidas de editor/IDE (opcional)
+.vscode/
+.idea/
