@@ -2,10 +2,10 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-1. ____________________ | ____________________ | ____________________
+1.  | ____________________ | ____________________
 2. Camila Insausti | cami.insausti18@gmail.com | ____________________
 3. Juan Pablo Britos |  | ____________________
-4. ____________________ | ____________________ | ____________________
+4. Francisco Alonso | francisco.alonso.b@gmail.com 
 5. Emiliano Acquistapace | emilianoacqui@gmail.com
 
 # Roles sugeridos:
